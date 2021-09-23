@@ -1,0 +1,7 @@
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/TesteApplication.java
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/infra/dto/VehicleDTO.java
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/domain/VehicleRepository.java
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/infra/restapi/VehicleController.java
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/domain/Vehicle.java
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/infra/restapi/VehicleParser.java
+/home/welisson/teste/concessionary-server/src/main/java/com/tinnova/teste/domain/VehicleApplicationServices.java

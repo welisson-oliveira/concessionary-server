@@ -1,0 +1,23 @@
+version: '3.7'
+services:
+  postgres-concessionary:
+    image: postgres
+    container_name: postgres-concessionary
+    ports:
+      - "5432:5432"
+    networks:
+      - concessionary-network
+    environment:
+      POSTGRES_USER: concessionary
+      POSTGRES_PASSWORD: concessionary
+      POSTGRES_DB: concessionary
+#    volumes:
+#      - database-data:/var/lib/postgresql/data/
+#
+#volumes:
+#  database-data:
+
+networks:
+  concessionary-network:
+    name: concessionary-network
+    driver: bridge

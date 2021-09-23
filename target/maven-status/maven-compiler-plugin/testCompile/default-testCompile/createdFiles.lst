@@ -1,0 +1,5 @@
+application/ClearContext.class
+com/tinnova/teste/infra/restapi/VehicleControllerTests.class
+application/AbstractTest.class
+application/CleanupDatabaseTestExecutionListener.class
+com/tinnova/teste/TesteApplicationTests.class

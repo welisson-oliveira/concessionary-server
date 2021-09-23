@@ -1,0 +1,7 @@
+com/tinnova/teste/domain/Vehicle.class
+com/tinnova/teste/TesteApplication.class
+com/tinnova/teste/infra/dto/VehicleDTO.class
+com/tinnova/teste/domain/VehicleApplicationServices.class
+com/tinnova/teste/infra/restapi/VehicleParser.class
+com/tinnova/teste/domain/VehicleRepository.class
+com/tinnova/teste/infra/restapi/VehicleController.class
